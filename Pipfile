@@ -7,6 +7,9 @@ verify_ssl = true
 
 [packages]
 selenium = "*"
+webdriver-manager = "*"
+python-docx = "*"
+boto3 = "*"
 
 [requires]
 python_version = "3.7"
